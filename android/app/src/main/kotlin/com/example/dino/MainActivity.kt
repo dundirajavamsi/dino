@@ -1,4 +1,4 @@
-package com.example.dino
+package com.sample.dino
 
 import io.flutter.embedding.android.FlutterActivity
 
